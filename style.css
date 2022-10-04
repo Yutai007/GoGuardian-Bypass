@@ -1,0 +1,28 @@
+body {
+  background-color:#000000;
+}
+#bar{
+  position:absolute;
+  background: rgba(173, 9, 9, 0.1);
+  width:100px;
+  height:100px;
+  left:75%;
+  top:100px;
+  border-radius:100%;
+}
+  h1, h4, h5, h3, h2, h6{
+  margin-left: 10%;
+	margin-right: 10%;
+	color: rgb(0, 0, 0);
+  text-align: center;
+  }
+
+img {
+  border-radius: 1%;
+  border: 10px inset #8ee4af;
+
+}
+iframe{
+  border-radius: 30px;
+  border: 10px inset #8ee4af;	
+}
